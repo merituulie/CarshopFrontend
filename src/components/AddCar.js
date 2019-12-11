@@ -12,6 +12,7 @@ export default function AddCar(props) {
         brand: '', model: '', color: '', fuel: '', year: '', price: ''
     });
 
+    // New comment
     const handleClickOpen = () => {
         setOpen(true);
       };
